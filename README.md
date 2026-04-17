@@ -12,7 +12,8 @@ Understand the performance of the sales funnel
 Identify drop-off points in the pipeline
 Analyze conversion efficiency
 Provide insights to improve revenue generation
-🛠️ Tools & Technologies
+
+Tools & Technologies
 Python (Pandas)
 Data visualization libraries
 Analytical dashboard
